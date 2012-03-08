@@ -1,0 +1,22 @@
+.card {
+	width:290px;
+    height:270px;
+    border-radius:0;
+    padding:15px;
+}
+
+img {
+	display:none;
+}
+
+.header {
+    display:none;
+}
+
+.head {
+    display:block;
+}
+
+.bio {
+    top:5px;
+}

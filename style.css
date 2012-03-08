@@ -1,0 +1,89 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family:Helvetica, sans-serif;
+	color:efeadb;
+}
+
+body {
+	background-image:url('back.jpg');
+}
+
+h1 {
+    position:relative;
+	font-size:42px;
+    font-family: 'Nunito', sans-serif;
+    top:-15;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+.card {
+	border-radius: 15px;
+	position:relative;
+	width:600px;
+	border:none;
+	background-color:A1A1A1;
+	text-align:left;
+	padding:25px;
+	margin-top:70px;
+	margin-bottom:10%;
+	height:300;
+}
+
+.bio {
+	position:relative;
+    top:20px;
+}
+
+img {
+    border-radius: 15px;
+	float:right;
+}
+
+p {
+    position:relative;
+}
+
+.cv_head {
+    font-size:24;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.header {
+    height:100px3
+    
+}
+
+ul#nav {
+	width: 600px; list-style: none; overflow: hidden; margin: 25px 0 0 0;
+    }
+
+ul#nav li {
+    padding-top:13px;
+    width: 125px; height: 33px; float: left;
+    background-color: A1A1A1; border-radius: 15px;
+    margin: 0 33px 0 0;
+    font-weight: bold; text-align: center; vertical-align: middle; text-transform: uppercase;
+    
+}
+
+ul#nav li:nth-child(4) {
+    margin: 1px 0 0 0;
+}
+
+ul#nav li a {
+    color: #616369; text-decoration: none;
+}
+
+ul#nav li a:hover {
+    color: #a12121;
+}
+
+.head {
+    display:none;
+}
